@@ -53,8 +53,13 @@ namespace checkers_chess
                        if( i == 6) { P[i, j].Image = Properties.Resources.pawn1;}
                     P[i, j].SizeMode = PictureBoxSizeMode.CenterImage;
                     
-                    
-                   
+                    /*
+                     //for checkers
+                     if(i<(n/2)-1 && P[i,j].BackColor == DarkGreen){P[i,j].Image = Properties.Resources.pictureofplayer1solderds;}
+                     else if(i<(n/2)-1 && P[i,j].BackColor == DarkGreen) {P[i,j].Image = Properties.Resources.pictureofplayer2solders;}
+                     */
+
+
                     panel1.Controls.Add(P[i, j]);
                 }
                 top += 60;
