@@ -1,0 +1,11 @@
+C:\Users\user\Documents\GitHub\checkers-chess\checkers-chess\checkers-chess\bin\Debug\checkers-chess.exe.config
+C:\Users\user\Documents\GitHub\checkers-chess\checkers-chess\checkers-chess\bin\Debug\checkers-chess.exe
+C:\Users\user\Documents\GitHub\checkers-chess\checkers-chess\checkers-chess\bin\Debug\checkers-chess.pdb
+C:\Users\user\Documents\GitHub\checkers-chess\checkers-chess\checkers-chess\obj\Debug\checkers-chess.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\checkers-chess\checkers-chess\checkers-chess\obj\Debug\checkers-chess.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\GitHub\checkers-chess\checkers-chess\checkers-chess\obj\Debug\checkers_chess.Form1.resources
+C:\Users\user\Documents\GitHub\checkers-chess\checkers-chess\checkers-chess\obj\Debug\checkers_chess.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\checkers-chess\checkers-chess\checkers-chess\obj\Debug\checkers-chess.csproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\checkers-chess\checkers-chess\checkers-chess\obj\Debug\checkers-chess.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\checkers-chess\checkers-chess\checkers-chess\obj\Debug\checkers-chess.exe
+C:\Users\user\Documents\GitHub\checkers-chess\checkers-chess\checkers-chess\obj\Debug\checkers-chess.pdb
