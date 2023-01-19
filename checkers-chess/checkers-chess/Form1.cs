@@ -31,13 +31,13 @@ namespace checkers_chess
                 left = 2;
                 if (i % 2 == 0)
                 {
-                    colors[0] = Color.White;
-                    colors[1] = Color.Black;
+                    colors[0] = Color.Turquoise;
+                    colors[1] = Color.DarkGreen;
                 }
                 else
                 {
-                    colors[1] = Color.White;
-                    colors[0] = Color.Black;
+                    colors[1] = Color.Turquoise;
+                    colors[0] = Color.DarkGreen;
                 }
 
                 for (int j = 0; j < n; j++)
@@ -47,8 +47,15 @@ namespace checkers_chess
                     P[i, j].Location = new Point(left, top);
                     P[i, j].Size = new Size(60, 60);
                     left += 60;
+                    //black pieces
+                      if( i ==1 ) { P[i, j].Image = Properties.Resources.pawn2; }
+                    //white pieces
+                       if( i == 6) { P[i, j].Image = Properties.Resources.pawn1;}
+                    P[i, j].SizeMode = PictureBoxSizeMode.CenterImage;
+                    
+                    
+                   
                     panel1.Controls.Add(P[i, j]);
-
                 }
                 top += 60;
             }
